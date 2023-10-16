@@ -1,0 +1,20 @@
+{
+  "HarmonyId": "voidbehemoth.crashsuppressor",
+  "DisplayName": "Crash Suppressor",
+  "Authors": [
+    "VoidBehemoth"
+  ],
+  "Description": "For developers :)",
+  "Version": "1.0.0",
+  "RequiredMods": [],
+  "Settings": {
+    "CheckboxSettings": [
+      {
+        "Name": "Suppress crash reports",
+        "Description": "Suppresses ALL crash reports that would be sent to BMG servers. Only use when working with a highly unstable mod.",
+        "DefaultValue": true,
+        "AvailableInGame": true
+      }
+    ]
+  }
+}
